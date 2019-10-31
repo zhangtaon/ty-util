@@ -2,5 +2,5 @@
  * author: zto
  * validate config
  */
-import './lib/confirmDel'
+import './lib/confirmDelete'
 
