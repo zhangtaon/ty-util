@@ -9,6 +9,8 @@
   "author": "zto",
   "license": "MIT",
   "dependencies":{
-    "xlsx": "^0.15.1"
+    "jquery": "2.2.3",
+    "xlsx": "^0.15.1",
+    "file-saver": "^2.0.2"
   }
 }
