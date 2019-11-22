@@ -11,7 +11,7 @@
   "dependencies": {
     "lodash": "^4.17.11",
     "xlsx": "^0.15.1",
-    "jquery": "2.2.3",
+    "jquery": "3.4.1",
     "file-saver": "^2.0.2"
   }
 }
