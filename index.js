@@ -8,4 +8,5 @@ export * from "./lib/exportExcel"
 export * from "./lib/log"
 export * from "./lib/treeParse"
 export * from "./lib/isType"
+export * from "./lib/debounce"
 
